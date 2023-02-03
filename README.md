@@ -1,4 +1,4 @@
-# NLP-Exercises
+# First Hand Implementation of NLP basics
 
 ## A brush-up implementation of NLP basics
 1. Tokenisation
